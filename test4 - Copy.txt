@@ -12,4 +12,7 @@ wrong commit5
 wrong commit6
 wrong commit7
 wrong commit8
+<<<<<<< HEAD
 wrong commit9
+=======
+>>>>>>> abcTest2
